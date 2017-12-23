@@ -1,0 +1,50 @@
+
+.jumbotron {
+    box-sizing: border-box;
+    height: 600px;
+  }
+  
+  .main-button-container {
+    margin-top: 150px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .timer-p {
+    margin-top: 30px;
+  }
+  
+  .answer:hover {
+    background: green;
+  }
+  
+  .answer {
+    padding-top: 7px;
+    height: 45px;
+    color: black;
+    padding-left: 14px;
+    background-color: white;
+    border-radius: 4px;
+  }
+  
+  .img-wrong {
+    margin-top: 30px;
+  }
+  
+  .first-answer {
+    margin-top: 30px;
+  }
+  
+  .reset-button {
+    margin-top: 30px;
+  }
+  
+  .summary-correct {
+    margin-top: 30px;
+  }
+  
+  body {
+    background-color: red;
+    color: white;
+  }
